@@ -10,7 +10,7 @@ Download laravelAPI code zip file from this link: [LarvelAPI](https://codeload.g
 
 Extract this zip file in htdocs folder.
 
-Open Xampp server application by run as administrator.
+Open Xampp server application by run as administrator and press start button of Apache and Mysql.
 
 Now click this link: [Phpmyadmin](http://localhost/phpmyadmin/index.php)
 
